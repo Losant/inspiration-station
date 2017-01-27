@@ -1,0 +1,18 @@
+{
+  "name": "amazon-polly-losant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "amazon-polly-speaker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": ">= 2.0.9",
+    "johnny-five": "^0.10.6",
+    "losant-mqtt": "^2.0.1",
+    "raspi-io": "^7.2.3",
+    "speaker": "^0.3.0"
+  }
+}
